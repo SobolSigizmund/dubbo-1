@@ -1,4 +1,4 @@
 dubbo
 =====
 
-Already moved to <https://github.com/AlibabaTech/dubbo> !
+Already moved to <https://github.com/alibaba/dubbo> !
